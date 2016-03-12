@@ -103,18 +103,19 @@ Between Win and OSX, I arguably think OSX has better combination of shortcuts, w
 
 `control` + `tab` or `contorl` + `shift` + `tab`: 前后切换tab。
 
-`cmd` + `shift` + `c`: 直接打开 developer tool, 并且 inspect element.
+`cmd` + `shift` + `c`: 直接打开 developer tool, 并且 inspect element。
 
-`cmd` + `alt` + `i`: 直接打开deverloper tool.
+`cmd` + `alt` + `i`: 直接打开 developer tool。
 
 `cmd` + `k`: 清除console端口。
 
 #### Finder
 
-`cmd` + `alt` + `l`: 下载
+`cmd` + `alt` + `l`: 下载。
 
-`cmd` + `shift` + `h`: 自己的home
+`cmd` + `shift` + `h`: 自己的home。
 
-`cmd` + `shirt` + `o`: 文件
+`cmd` + `shirt` + `o`: 文件。
 
-`cmd` + `shirt` + `d`: 桌面 
+`cmd` + `shirt` + `d`: 桌面。
+
