@@ -37,7 +37,7 @@ Between Win and OSX, I arguably think OSX has better combination of shortcuts, w
 
 `cmd` + `shift` + `w`: close all tabs, but application is still running.
 
-`cmd` + `q`: complete quit application.
+`cmd` + `q`: completely quit application.
 
 #### Chrome
 
