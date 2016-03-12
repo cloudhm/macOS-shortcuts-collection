@@ -91,7 +91,7 @@ Between Win and OSX, I arguably think OSX has better combination of shortcuts, w
 
 `cmd` + `del`: 直接删除一行字。
 
-`alt` + `left` or `right`: 针对英文修改的，一个词一个词的走。
+`alt` + `left` or `right`: 光标移动词前词后。
 
 `alt` + `shift` + `left` or `right`: 选择一个词。
 
