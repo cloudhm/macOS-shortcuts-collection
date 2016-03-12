@@ -21,13 +21,13 @@ Between Win and OSX, I arguably think OSX has better combination of shortcuts, w
 
 `alt` + `del`: delete entire word.
 
-`alt` + `8`: bullet
+`alt` + `8`: bullet.
 
 #### System
 
 `control` + `shift` + `ejcet`: shorter to sleep, longer to shut down.
 
-`cmd` + `~`: cycle through different windows in same application.
+`cmd` + `~`: cycle through different windows in current application.(one of my favorite shortcuts, doesn't exist in Windows)
 
 `cmd` + `,`: open preference of any application.
 
@@ -35,7 +35,7 @@ Between Win and OSX, I arguably think OSX has better combination of shortcuts, w
 
 `cmd` + `w`: close application tab.
 
-`cmd` + `shirt` + `w`: close all tabs, but application is still running.
+`cmd` + `shift` + `w`: close all tabs, but application is still running.
 
 `cmd` + `q`: complete quit application.
 
@@ -49,15 +49,31 @@ Between Win and OSX, I arguably think OSX has better combination of shortcuts, w
 
 `cmd` + `k`: clear console.
 
+`F2`: Edit as HTML in Chrome developer tool.
+
 #### Finder
 
-`cmd` + `alt` + `l`: downloads
+`cmd` + `alt` + `l`: downloads.
 
-`cmd` + `shift` + `h`: home
+`cmd` + `shift` + `h`: home.
 
-`cmd` + `shirt` + `o`: documents
+`cmd` + `shirt` + `o`: documents.
 
-`cmd` + `shirt` + `d`: desktop 
+`cmd` + `shirt` + `d`: desktop.
+
+#### Terminal
+
+`control` + `w`: delete single word.
+
+`control` + `u`: delete entire line.
+
+`control` + `a`: go to beginning of the line.
+
+`control` + `e`: go to end of the line.
+
+`control` + `p`: previous command.
+
+`-`: go to previous directory.(very useful)
 
 # 中文
 
@@ -109,6 +125,8 @@ Between Win and OSX, I arguably think OSX has better combination of shortcuts, w
 
 `cmd` + `k`: 清除console端口。
 
+`F2`: 编辑 HTML 在 developer tool 打开的情况下。
+
 #### Finder
 
 `cmd` + `alt` + `l`: 下载。
@@ -118,4 +136,18 @@ Between Win and OSX, I arguably think OSX has better combination of shortcuts, w
 `cmd` + `shirt` + `o`: 文件。
 
 `cmd` + `shirt` + `d`: 桌面。
+
+#### 终端
+
+`control` + `w`: 删除整个词。
+
+`control` + `u`: 删除整行。
+
+`control` + `a`: 到一行的开始。
+
+`control` + `e`: 到一行的结束。
+
+`control` + `p`: 上一个命令。
+
+`-`: 上一个目录。（这个很有用）
 
