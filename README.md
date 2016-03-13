@@ -73,6 +73,8 @@ Between Win and OSX, I arguably think OSX has better combination of shortcuts, w
 
 `control` + `p`: previous command.
 
+`control` + `l`: clear.
+
 `-`: go to previous directory.(very useful)
 
 # 中文
@@ -148,6 +150,8 @@ Between Win and OSX, I arguably think OSX has better combination of shortcuts, w
 `control` + `e`: 到一行的结束。
 
 `control` + `p`: 上一个命令。
+
+`control` + `l`: 清除窗口.
 
 `-`: 上一个目录。（这个很有用）
 
