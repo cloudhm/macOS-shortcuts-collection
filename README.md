@@ -3,6 +3,8 @@ As programmers who live on keyboards 24/7, we should be aware of any kinds of sh
 
 Between Win and OSX, I arguably think OSX has better combination of shortcuts, with powerful key mapping tools, it is better than ever.
 
+Read my post 2 [advanced-keymapping](https://github.com/yifanchen/advanced-keymapping), and take shortcuts to the next level.
+
 #### Editing
 
 `cmd` + `left` or `right`: navigating through beginning and end of a line.
@@ -43,9 +45,17 @@ Between Win and OSX, I arguably think OSX has better combination of shortcuts, w
 
 `control` + `tab` or `contorl` + `shift` + `tab`: navigating through tabs.
 
+`cmd` + `shfit` + `b`: toggle bookmark bar.
+
 `cmd` + `shift` + `c`: inspect element ready.
 
 `cmd` + `alt` + `i`: open developer tool without inspect element ready.
+
+`cmd` + `alt` + `j`: open console window.
+
+`cmd` + `alt` + `u`: open source.
+
+`cmd` + `shift` + `d`: toggle dock side.
 
 `cmd` + `k`: clear console.
 
