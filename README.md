@@ -25,6 +25,8 @@ Read my post 2 [advanced-keymapping](https://github.com/yifanchen/advanced-keyma
 
 `alt` + `8`: bullet.
 
+`alt` + `shift` + `k`: 
+
 #### System
 
 `control` + `shift` + `ejcet`: shorter to sleep, longer to shut down.
