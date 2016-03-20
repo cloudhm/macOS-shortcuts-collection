@@ -113,6 +113,8 @@ Read my post 2 [advanced-keymapping](https://github.com/yifanchen/advanced-keyma
 
 `alt` + `8`: 原点。
 
+`alt` + `shift` + `k`: , 是个苹果，无意间发现的，蛮有意思的。
+
 #### 系统
 
 `control` + `shift` + `ejcet`: 睡眠，锁屏，或者关机。
