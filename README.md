@@ -143,6 +143,8 @@ Read my post 2 [advanced-keymapping](https://github.com/yifanchen/advanced-keyma
 
 `cmd` + `k`: 清除console端口。
 
+`cmd` + `shift` + `m`: 打开device窗口。
+
 `F2`: 编辑 HTML 在 developer tool 打开的情况下。
 
 #### Finder
