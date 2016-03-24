@@ -59,6 +59,8 @@ Read my post 2 [advanced-keymapping](https://github.com/yifanchen/advanced-keyma
 
 `cmd` + `shift` + `d`: toggle dock side.
 
+`cmd` + `shift` + `m`: toggle device view
+
 `cmd` + `k`: clear console.
 
 `F2`: Edit as HTML in Chrome developer tool.
