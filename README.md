@@ -15,7 +15,7 @@ Read my post 2 [advanced-keymapping](https://github.com/yifanchen/advanced-keyma
 
 `cmd` + `shift` + `top` or `bottom`: select entire file from either top or bottom.
 
-`cmd` + `del`: delete the line of content behind cursor.
+`cmd` + `del`: delete content behind cursor on the same line.
 
 `alt` + `left` or `right`: navigating through word by word.
 
