@@ -21,7 +21,7 @@ Read my post 2 [advanced-keymapping](https://github.com/yifanchen/advanced-keyma
 
 `alt` + `shift` + `left` or `right`: select word.
 
-`alt` + `del`: delete entire word.
+`alt` + `del`: delete entire word, no long need to copy from other places.
 
 `alt` + `8`: bullet.
 
@@ -93,7 +93,7 @@ Read my post 2 [advanced-keymapping](https://github.com/yifanchen/advanced-keyma
 
 # 中文
 
-以前玩魔兽，喜欢快捷键，简单总结一下自己觉得很有用的快捷键，希望可以帮助大家。 
+以前玩魔兽，喜欢快捷键，简单总结一下自己觉得很有用的快捷键。
 
 #### 编辑
 
@@ -113,7 +113,7 @@ Read my post 2 [advanced-keymapping](https://github.com/yifanchen/advanced-keyma
 
 `alt` + `del`: 直接删除一个词。
 
-`alt` + `8`: 原点。
+`alt` + `8`: •, 小黑点，知道这个命令之后再也不用去别的地方拷贝了。
 
 `alt` + `shift` + `k`: , 是个苹果，无意间发现的，蛮有意思的。
 
