@@ -1,5 +1,7 @@
 # macOS Shortcuts Collection
 
+I like shortcuts, and I hope you do as well. Fork or create a PR if you want to share shortcuts.
+
 #### Editing
 
 `cmd` + `left` or `right`: navigating through beginning and end of a line.
