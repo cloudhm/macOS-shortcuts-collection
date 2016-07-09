@@ -82,7 +82,11 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 
 `cmd` + `shirt` + `d`: desktop.
 
-#### Terminal
+### Shell && Bash && Zsh && Command Line && Terminal
+
+`control` + `z`: puts whatever you are running into a suspended background process. fg restores it.
+
+`control` + `t`: swap the last two characters before the cursor
 
 `control` + `w`: delete a word before the cursor.
 
@@ -102,9 +106,11 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 
 `control` + `n`: next command.
 
-`control` + `l`: clear.
+`control` + `l`: clear the screen.
 
 `control` + `d`: end of file, works in Shell when wants to exit out an environment.
+
+`control` + `c`: kill whatever you are running.
 
 `up` or `down`: previous and next command.
 
