@@ -70,8 +70,6 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 
 `cmd` + `k`: clear console.
 
-`<` and `>`: place current tab to the left or right
-
 `F2`: Edit as HTML in Chrome developer tool.
 
 #### Finder
