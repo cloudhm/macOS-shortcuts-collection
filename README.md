@@ -82,6 +82,12 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 
 `cmd` + `shirt` + `d`: desktop.
 
+#### Apple Mail && Exchange Mail
+
+`control` + `p`: work as `up arrow`.
+
+`control` + `n`: work as `down arrow`.
+
 ### Shell && Bash && Zsh && Command Line && Terminal
 
 `control` + `z`: puts whatever you are running into a suspended background process. fg restores it.
