@@ -2,7 +2,7 @@
 
 I like shortcuts, and I hope you do as well. Fork or create a PR if you want to share shortcuts.
 
-#### Editing
+## Editing
 
 `cmd` + `left` or `right`: navigating through beginning and end of a line.
 
@@ -36,7 +36,7 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 
 `ctrl` + `p`: go down when editing, i.e. selecting in intellisense.
 
-#### System
+## System
 
 `control` + `shift` + `power`: shorter to sleep, longer to shut down.
 
@@ -52,7 +52,7 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 
 `cmd` + `q`: completely quit the application.
 
-#### Chrome
+## Chrome
 
 `control` + `tab` or `control` + `shift` + `tab`: navigating through tabs.
 
@@ -74,7 +74,7 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 
 `F2`: Edit as HTML in Chrome developer tool.
 
-#### Finder
+## Finder
 
 `cmd` + `alt` + `l`: downloads.
 
@@ -84,13 +84,13 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 
 `cmd` + `shirt` + `d`: desktop.
 
-#### Apple Mail && Exchange Mail
+## Apple Mail && Exchange Mail
 
 `control` + `p`: work same as `up arrow`, but not consectively.
 
 `control` + `n`: work same as `down arrow`, but not consectively.
 
-### Shell && Bash && Zsh && Command Line && Terminal
+## Shell && Bash && Zsh && Command Line && Terminal
 
 `control` + `z`: puts whatever you are running into a suspended background process. fg restores it.
 
