@@ -86,9 +86,9 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 
 #### Apple Mail && Exchange Mail
 
-`control` + `p`: work as `up arrow`.
+`control` + `p`: work same as `up arrow`, but not consectively.
 
-`control` + `n`: work as `down arrow`.
+`control` + `n`: work same as `down arrow`, but not consectively.
 
 ### Shell && Bash && Zsh && Command Line && Terminal
 
