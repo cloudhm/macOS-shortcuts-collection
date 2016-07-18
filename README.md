@@ -123,3 +123,11 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 `up` or `down`: previous and next command.
 
 `-`: go to the previous directory.(very useful)
+
+`pushd`: save current working directory to stack.
+
+`popd`: grab saved directory from stack.
+
+`pwd|pbcopy`: copy current working dir to clipboard
+
+`pbpaste`: paste working dir from clipboard
