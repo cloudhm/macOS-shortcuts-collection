@@ -128,6 +128,8 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 
 `popd`: grab saved directory from stack.
 
+`dirs -c`: clean directory stack.
+
 `pwd|pbcopy`: copy current working dir to clipboard
 
 `pbpaste`: paste working dir from clipboard
