@@ -26,7 +26,7 @@ I like shortcuts, and I hope you do as well. Fork or create a PR if you want to 
 
 `alt` + `shift` + `k`: 
 
-My co-worker Jeff told me the following shortcuts, they work similarly as arrow keys when editing, but not the same when not editing. I only use them in Shell and Vim because I treat them as replacement of my `ctrl` + `hjkl` keybinding since I intentionally disabled them in iTerm for better Vim experience. Part of the reason that they are working is that arguably macOS took some concepts from Unix, so these shortcuts were inherited.
+The following shortctus are the inheritance from Unix. They work similarly as arrow keys when editing, but not the same when not editing. I only use them in Shell and Vim because I treat them as replacement of my `ctrl` + `hjkl` keybinding since I intentionally disabled them in iTerm for better Vim experience. Part of the reason that they are working is that arguably macOS took some concepts from Unix, so these shortcuts were inherited.
 
 `ctrl` + `a`: go to beginning of the line when editing.
 
@@ -120,9 +120,13 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 
 `control` + `c`: kill whatever you are running.
 
-`up` or `down`: previous and next command.
+## Bash && Zsh Commands
+
+There are hundreds commands in Bash, I am going to collect the ones we need to use daily.
 
 `-`: go to the previous directory.(very useful)
+
+`up` or `down`: previous and next command.
 
 `pushd`: save current working directory to stack.
 
@@ -133,3 +137,5 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 `pwd|pbcopy`: copy current working dir to clipboard
 
 `pbpaste`: paste working dir from clipboard
+
+`export`: setting environment variables.
