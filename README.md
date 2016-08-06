@@ -92,7 +92,7 @@ The following shortctus are the inheritance from Unix. They work similarly as ar
 
 ## Shell && Bash && Zsh && Command Line && Terminal
 
-`control` + `z`: puts whatever you are running into a suspended background process. fg restores it.
+`control` + `z`: puts whatever you are running into a suspended background process. `fg` restores it.
 
 `control` + `t`: swap the last two characters before the cursor
 
