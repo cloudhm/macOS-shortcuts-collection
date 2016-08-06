@@ -1,6 +1,6 @@
 # macOS Shortcuts Collection
 
-I like shortcuts, and I hope you do as well. Fork or create a PR if you want to share shortcuts.
+I like shortcuts, and I hope you do as well. Feel free to create a PR and share your shortcuts. I have also written an <a href="https://github.com/yifanchen/advanced-keymapping">Advanced Keymapping</a> post, check it out if you want to take shortcuts to the next level.
 
 ## Editing
 
