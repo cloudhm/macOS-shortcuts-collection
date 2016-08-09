@@ -72,6 +72,10 @@ The following shortctus are the inheritance from Unix. They work similarly as ar
 
 `cmd` + `k`: clear console.
 
+`cmd` + `left`: previous page.
+
+`cmd` + `right`: next page.
+
 `F2`: Edit as HTML in Chrome developer tool.
 
 ## Finder
